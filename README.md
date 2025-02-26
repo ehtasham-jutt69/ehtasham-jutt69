@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ehtasham-jutt69
-- 👀 I’m interested in ...  cyber secutity
-- 🌱 I’m currently learning ... DSA in c++
+- 👀 .net developer 
+- 🌱 Microsoft Learn Student Ambassador 
 - 📫 reach me instagram  ... ehtasham.xx
 
